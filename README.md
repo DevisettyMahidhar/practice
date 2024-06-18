@@ -21,5 +21,11 @@
    ```bash
       go run main.go
 
+# Functions Present in the Project
+`get`
+`post`
+`delete`
+
+
 
 
