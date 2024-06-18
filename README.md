@@ -22,9 +22,9 @@
       go run main.go
 
 # Functions Present in the Project
-`get\n` 
-`post`
-`delete`
+# `get` 
+# `post`
+# `delete`
 
 
 
