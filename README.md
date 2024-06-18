@@ -6,3 +6,8 @@
    ```bash
    go mod init app
 
+2. **Get the package**
+   ```bash
+   go get github.com/devisettymahidhar315/zin1
+
+
