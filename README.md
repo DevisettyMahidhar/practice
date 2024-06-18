@@ -26,6 +26,19 @@
 ### `post`
 ### `delete`
 
+#Accessing the Functions
+##Get Function
+### redis data ```http://localhost:8080/redis/print```
+### inmemory data ```http://localhost:8080/inmemory/print```
+### particular data ```http://localhost:8080/key```
+
+## Delete Function
+### open the terminal and type the following commands for
+### delete partcular command ```http://localhost:8080/key```
+### delete entire data ```http://localhost:8080/all```
+
+## Post Function
+### open the terminal and type the following command ```http://localhost:8080/key/value```
 
 
 
